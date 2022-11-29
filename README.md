@@ -9,6 +9,6 @@ Toxic Word Filtering
 Anti-Nuke - Anti-Raid - Autopfp
 Welcome & autoresponder
 Custom Prefixes & Auto-Role
-Servers are removed from the database once the bot leaves the server, none of this selected information is shared with anyone other than the sole bot owner, who can be contacted in the support server discord.gg/kaunt.
+Servers are removed from the database once the bot leaves the server, none of this selected information is shared with anyone other than the sole bot owner, who can be contacted in the support server discord.gg/ksbu.
 
 More FAQs will be added upon more information being added to 'Riot'.
